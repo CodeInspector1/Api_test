@@ -26,12 +26,13 @@
   - Негативное тестирование.
 
 ### Тест-кейсы
-Тест-кейсы доступны в [Google Sheets по ссылке]([https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1fS5XXdMr9erSkE08K7MCow4ktVeQx6C-FGvKYKJgksI/edit?usp=sharing)). Они описывают шаги, ожидаемые и фактические результаты для каждого эндпоинта API.
+Тест-кейсы доступны в [Google Sheets по ссылке]([https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1fS5XXdMr9erSkE08K7MCow4ktVeQx6C-FGvKYKJgksI/edit?usp=sharing)). 
+Они описывают шаги, ожидаемые и фактические результаты для каждого эндпоинта API.
 
 ---
 
 ## Postman коллекция
-Файл коллекции Postman доступен [здесь](postman/ReqRes_API_Tests.json). Его можно импортировать в Postman для проверки запросов.
+Файл коллекции Postman доступен [здесь](postman_collection). Его можно импортировать в Postman для проверки запросов.
 
 ---
 
@@ -54,8 +55,3 @@
 - **TC005 (POST /users, пропущенные поля):** Ожидался код 400, но вместо этого пользователь был создан (код 200).
 
 ---
-
-## Как запустить проект
-1. Склонируйте репозиторий:
-   ```bash
-   git clone https://github.com/your-username/reqres-api-testing.git
