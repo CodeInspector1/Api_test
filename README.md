@@ -26,7 +26,7 @@
   - Негативное тестирование.
 
 ### Тест-кейсы
-Тест-кейсы доступны в [Google Sheets по ссылке](https://docs.google.com/spreadsheets). Они описывают шаги, ожидаемые и фактические результаты для каждого эндпоинта API.
+Тест-кейсы доступны в [Google Sheets по ссылке]([https://docs.google.com/spreadsheets](https://docs.google.com/spreadsheets/d/1fS5XXdMr9erSkE08K7MCow4ktVeQx6C-FGvKYKJgksI/edit?usp=sharing)). Они описывают шаги, ожидаемые и фактические результаты для каждого эндпоинта API.
 
 ---
 
